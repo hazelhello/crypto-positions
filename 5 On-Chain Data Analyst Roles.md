@@ -155,7 +155,3 @@ If you learn **SQL + Python + blockchain data**, you can move between these role
 
 ---
 
-💡 If you want, I can also show you:
-
-* **The exact skills companies look for in On-chain Data Analyst interviews (2026)**
-* **A step-by-step roadmap to become one from zero.**
