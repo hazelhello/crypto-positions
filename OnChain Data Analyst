@@ -1,0 +1,133 @@
+**“Onchain Data Analyst” is not exactly the same job in every company.**
+The **title is similar**, but the **focus, tasks, and tools can vary a lot depending on the company’s business.**
+
+Think of it like this:
+➡ Same **core skillset**
+➡ Different **applications**
+
+---
+
+# 1. What is the SAME in most companies
+
+Most Onchain Data Analyst roles share these **core responsibilities**:
+
+**1. Analyze blockchain data**
+
+* Transactions
+* Wallet activity
+* Liquidity movement
+* Token transfers
+
+**2. Build dashboards and reports**
+
+* Use tools like SQL, Python, and BI dashboards to track trends. ([Next Level Jobs][1])
+
+**3. Identify patterns in on-chain activity**
+Examples:
+
+* User behavior
+* Capital flow
+* DeFi usage
+
+**4. Work with product or research teams**
+
+* Provide insights that influence decisions.
+
+Example tasks:
+
+* Track user growth
+* Analyze wallet clusters
+* Study transaction flows and capital allocation. ([Jobo API][2])
+
+---
+
+# 2. What is DIFFERENT between companies
+
+The **focus changes based on the company type.**
+
+### 1️⃣ Crypto exchanges
+
+Example: trading platforms
+
+Focus:
+
+* User trading behavior
+* Liquidity
+* market flows
+* product analytics
+
+Typical work:
+
+* Analyze DEX/CEX volume
+* Track user retention
+* Understand capital movement.
+
+---
+
+### 2️⃣ Security / compliance companies
+
+Focus:
+
+* Fraud detection
+* scams
+* money laundering
+* exploit tracking
+
+Example tasks:
+
+* Investigate scams and exploits
+* Track suspicious wallets
+* analyze attack patterns. ([Digitalhire][3])
+
+---
+
+### 3️⃣ Blockchain ecosystems (protocol teams)
+
+Focus:
+
+* ecosystem growth
+* staking / DeFi
+* TVL and adoption metrics
+
+Typical work:
+
+* Track staking or airdrop campaigns
+* monitor network activity
+* analyze gas fees or TVL. ([jobs.bnbchain.org][4])
+
+---
+
+# 3. Skills usually required everywhere
+
+Most companies still expect the same **technical stack**:
+
+* SQL
+* Python
+* blockchain knowledge
+* Dune / Flipside / Nansen
+* dashboards
+* data modeling
+* wallet clustering
+* smart contract event analysis. ([Next Level Jobs][1])
+
+---
+
+# 4. Simple comparison
+
+| Company Type              | Main Work                     |
+| ------------------------- | ----------------------------- |
+| Crypto Exchange           | trading analytics             |
+| Security / Compliance     | fraud & exploit investigation |
+| DeFi Protocol             | ecosystem analytics           |
+| Blockchain infrastructure | network & developer data      |
+
+---
+
+✅ **Conclusion:**
+The **title is the same**, but the **actual job depends on the company’s business model.**
+
+* 60–70% of the skills are the same
+* 30–40% of the work changes depending on the company
+
+
+
